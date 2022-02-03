@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Anec/static/css/main.a3e85829.css",
+    "main.js": "/Anec/static/js/main.e0cf8977.js",
+    "static/media/IMG_7707.JPG": "/Anec/static/media/IMG_7707.b218921c7a32735e682b.JPG",
+    "static/media/IMG_20180527_195011.jpg": "/Anec/static/media/IMG_20180527_195011.dee6312608a0ed9ad63d.jpg",
+    "static/media/anecmouton.JPG": "/Anec/static/media/anecmouton.82c4aa1be262dad060b9.JPG",
+    "static/media/périmètre-activite.PNG": "/Anec/static/media/périmètre-activite.ebfd6e2bb6930815ca1f.PNG",
+    "static/media/anecgroupe.JPG": "/Anec/static/media/anecgroupe.6bd58bee8a99e9945627.JPG",
+    "static/media/IMG_4263_2.jpg": "/Anec/static/media/IMG_4263_2.9fb0101a50762f933ac1.jpg",
+    "static/media/grand-logo.png": "/Anec/static/media/grand-logo.61b12decf030ea5c4272.png",
+    "index.html": "/Anec/index.html",
+    "main.a3e85829.css.map": "/Anec/static/css/main.a3e85829.css.map",
+    "main.e0cf8977.js.map": "/Anec/static/js/main.e0cf8977.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e85829.css",
+    "static/js/main.e0cf8977.js"
+  ]
+}
